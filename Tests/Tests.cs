@@ -18,7 +18,7 @@ namespace TestFramework
         private Steps.Steps steps = new Steps.Steps();
 
         private const string USERNAME = "radivanovich";
-        private const string PASSWORD = "3068506";
+        private const string PASSWORD = "pass";
         private const string WRONG_PASSWORD = "1234";
         private const string TEXT_TO_SEARCH = "Apple iPhone 5s 16GB Space Gray";
         private const string TEXT_COMMENT = "КРУТО";
